@@ -1,0 +1,3 @@
+age1= input("how ald are you?")
+age2= input("and you?")
+age1+age2
